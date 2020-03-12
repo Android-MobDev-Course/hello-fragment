@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloFragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="i_am_a_fragment">Hi ! I am a Fragment !</string>
+    <string name="action_settings">Settings</string>
+    <string name="randomButtonText">Click me to get a random number !</string>
+    <string name="defaultRandomNumber">Number Not Available !</string>
+
+</resources>

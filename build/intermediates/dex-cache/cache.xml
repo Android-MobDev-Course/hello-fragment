@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_a41e06e1b5a19a75cd59f9dec383c032bf7ea3df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_443a84e7cfd8ccdc2d3edb5f62d1b53188ff5ac4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_c551e83cf8afcf6a63f94191e1bff5de1b9fc68c.jar" />
+    </item>
+    <item
+        jar="/Users/marcopk/AndroidStudioProjects/HelloFragment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/marcopk/AndroidStudioProjects/HelloFragment/app/build/intermediates/pre-dexed/debug/classes-8c1460b3db165167b1a1002d263770c9b1dbcaad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_cd4fb96f53454cd598b2045ccaff009c7bfa17ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_32e067b2f2ddd68a2ca4c603e9248b60587cf501.jar" />
+    </item>
+    <item
+        jar="/Users/marcopk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/marcopk/AndroidStudioProjects/HelloFragment/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-bc8a71ccbb8c8337c9a451afac40c87b079cc3f3.jar" />
+    </item>
+    <item
+        jar="/Users/marcopk/AndroidStudioProjects/HelloFragment/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/marcopk/AndroidStudioProjects/HelloFragment/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-19adabd5bc9ab63c58785b81f69f9aedc7386e6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_3b9fc8f32658c9fdfd476eb71c19d69ec5283f06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_9f9214cb5ee5c9b3f82536570764bd4d7f69b479.jar" />
+    </item>
+    <item
+        jar="/Users/marcopk/AndroidStudioProjects/HelloFragment/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/marcopk/AndroidStudioProjects/HelloFragment/app/build/intermediates/pre-dexed/debug/classes-97972a8288bac2b46906cdfebc1a268a4dba2cfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_aae105254df8b25dd2ca549a905137543fb15a3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_cd0ceaeb1fe832878ae839eeb206dd6ce1ab3794.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_f240aaf872f479ac65ecbf8e0619a9e148184cc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_1e2ff8aee032164d6f7f0ed4c0da87728514b2db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_a0e02dc905422836bb015ebe88e6532b47d8eda0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_e1531767aaa53b2616b8fa9693793d622637f7cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_1e7add081c5030fa7bae57b542350e617f806056.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloFragment/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_e6592052f9305492b6f3e4293f5c8c03f53c5616.jar" />
+    </item>
+
+</items>
